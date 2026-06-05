@@ -1,7 +1,7 @@
 ## Responsive Landing Page ##
 -------------------------------------------
 
-~Landing page
+~Landing Page
 
   Just a Responsive landing page done for my personal use which changes color on scrolling.
 
@@ -16,4 +16,7 @@
 ~ Preview
   ![](lanpag1.png)
   ![](lanpag2.png)
+
+~Author
+  Adhithya S U
 
